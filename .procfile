@@ -1,0 +1,4 @@
+web: npm start
+# ou pour python :
+web: python app.py
+
